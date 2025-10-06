@@ -1,6 +1,7 @@
-# 💫 About Me:
+Hi 👋, I'm Sukesh M D
 I am a student
-
+Check out my resume here - https://drive.google.com/file/d/1tKzyxSBb8GVA4LTFW_LXNJLsUORjfVsJ/view?usp=drive_link
+Reach out me at - sukeshmd988@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sukesh.suki.3388) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukesh_md) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sukesh-m-d-b6698b2a2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SukeshMD838) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukeshmd988@gmail.com) 
